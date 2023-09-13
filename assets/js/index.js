@@ -1,6 +1,6 @@
 const cam = document.getElementById('cam');
-const cadastroBtn = document.getElementById('cadastroBtn');
 const canvas = document.getElementById('canvas');
+const cadastroBtn = document.getElementById('cadastroBtn');
 const labels = [];
 
 async function carregarNomes() {
